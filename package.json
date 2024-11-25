@@ -1,0 +1,15 @@
+{
+  "name": "movie-rental-system",
+  "version": "1.0.0",
+  "description": "A CLI app to interact with a movie rental system database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matthew English",
+  "license": "MIT",
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}
